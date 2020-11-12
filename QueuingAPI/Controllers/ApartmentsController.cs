@@ -44,7 +44,7 @@ namespace QueuingAPI.Controllers
         [HttpPost]
         public ActionResult<Apartments> Create(Apartments apartment)
         {
-            //apartment.id = new Random().Next();
+            apartment.id = new Random().Next();
             _apartmentsService.Create(apartment);
 
             return CreatedAtRoute("Details", new { id = apartment.objectId.ToString() }, apartment);

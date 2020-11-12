@@ -6138,11 +6138,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saab0029\\source\\repos\\QueuingAPI\\QueuingAPI\\QueuingAPI.csproj",
+      "projectUniqueName": "C:\\Users\\saab0029\\Source\\Repos\\Samira-Abdoljavadi\\FSU600-Module-4-Lab-Frameworks-API-and-MVC\\QueuingAPI\\QueuingAPI.csproj",
       "projectName": "QueuingAPI",
-      "projectPath": "C:\\Users\\saab0029\\source\\repos\\QueuingAPI\\QueuingAPI\\QueuingAPI.csproj",
+      "projectPath": "C:\\Users\\saab0029\\Source\\Repos\\Samira-Abdoljavadi\\FSU600-Module-4-Lab-Frameworks-API-and-MVC\\QueuingAPI\\QueuingAPI.csproj",
       "packagesPath": "C:\\Users\\saab0029\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saab0029\\source\\repos\\QueuingAPI\\QueuingAPI\\obj\\",
+      "outputPath": "C:\\Users\\saab0029\\Source\\Repos\\Samira-Abdoljavadi\\FSU600-Module-4-Lab-Frameworks-API-and-MVC\\QueuingAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\saab0029\\AppData\\Roaming\\NuGet\\NuGet.Config",
